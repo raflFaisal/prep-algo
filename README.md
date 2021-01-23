@@ -5,10 +5,9 @@ This project aims to guide individual preparing for software development intervi
 As you guys are aware that preapring for FAANG companies is a huge task which requires lots of efforts, time and patience. There is a long list of coding questions which could be asked in the interviews. Mostly people are try to solve as many questions as possible and just memorise the solutions, as a result the outcome is negative in most cases.
 
 Reasons for not clearing interviews:
-- When known question is faced, some people simply forget the solutions, or part of the solution 
-- Unseen question before => stuck, due of low confidence in solving unseen questions
+- When known question is faced, some people simply forget the solutions, or part of the solution => embarrassment situation
+- Unseen question => STUCK, due of low confidence in solving unseen questions
 - other simillar reasons
-
 
 Interviewer basically wants to check your approach in solving questions, your way of thinking to solve a given problem. And the best way is to practice intelligently and not just memorising each and every problem and their solutions. 
 
