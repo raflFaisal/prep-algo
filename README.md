@@ -14,7 +14,7 @@ Interviewer basically wants to check your approach in solving questions, your wa
 
 The intelligent way is to practice with *Patterns* based on specific algorithms to solve problems. In this way, for any specific pattern, you can solve small set of questions instead of solving a long list of questions based on same pattern. e.g. there are many questions which are solved using "Binary Search Tree" algorithm, so you can practice solving some questions based on BST, and for many other simillar questions your mind will automatically pick-up BST algorithm to solve these unsolved questions. In this way, you can prepare for interviews in a fast and efficient manner without the risk of facing embarrasment situation (such as memory-loss for any memorised question), and you are well prepared for unseen questions during interviews.
 
-Note that In this repo, you will find small set of questions against each pattern. The purpose of this repository is to share information related to patterns (and not long list of questions against each patterns)
+**Note that In this repo, you will find small set of questions against each pattern. The purpose of this repository is to share information related to patterns (and not long list of questions against each patterns)**
 
 # Patterns list:
 - Arrays
