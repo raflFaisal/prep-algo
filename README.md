@@ -29,6 +29,7 @@ The intelligent way is to practice with *Patterns* based on specific algorithms 
 - Cyclic Sort
 - Dynamic Programming
 - 0-1 Knapsack - DP
+- Top K elements
 - K-way Merge
 - Linked-list
 - Heap
