@@ -15,36 +15,36 @@ Interviewer basically wants to check your approach in solving questions, your wa
 The intelligent way is to practice with *Patterns* based on specific algorithms to solve problems. In this way, for any specific pattern, you can solve small set of questions instead of solving a long list of questions based on same pattern. e.g. there are many questions which are solved using "Binary Search Tree" algorithm, so you can practice solving some questions based on BST, and for many other simillar questions your mind will automatically pick-up BST algorithm to solve these unsolved questions. In this way, you can prepare for interviews in a fast and efficient manner without the risk of facing embarrasment situation (such as memory-loss for any memorised question), and you are well prepared for unseen questions during interviews.
 
 # Patterns list:
--> Arrays
--> Sliding Window
--> 2 Pointers
--> Path Sum
--> Range Sum
--> Binary Serach
--> Modified Binary Search
--> Binary Search Tree
--> BFS
--> DFS
--> Cyclic Sort
--> Dynamic Programming
--> 0-1 Knapsack - DP
--> K-way Merge
--> Linked-list
--> Heap
--> 2 Heaps
--> Parenthesis
--> N-Ary Tree
--> Merge Intervals
--> Sets
--> Backtracking (Subsets)
--> String
--> Graph
--> Basic Calculator
--> Trie
--> Allien Dictionary
--> Bitwise
--> Greedy Approach
--> Divide and conquer
+- Arrays
+- Sliding Window
+- 2 Pointers
+- Path Sum
+- Range Sum
+- Binary Serach
+- Modified Binary Search
+- Binary Search Tree
+- BFS
+- DFS
+- Cyclic Sort
+- Dynamic Programming
+- 0-1 Knapsack - DP
+- K-way Merge
+- Linked-list
+- Heap
+- 2 Heaps
+- Parenthesis
+- N-Ary Tree
+- Merge Intervals
+- Sets
+- Backtracking (Subsets)
+- String
+- Graph
+- Basic Calculator
+- Trie
+- Allien Dictionary
+- Bitwise
+- Greedy Approach
+- Divide and conquer
 
 
 
