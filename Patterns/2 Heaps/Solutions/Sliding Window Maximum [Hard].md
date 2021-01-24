@@ -46,4 +46,6 @@ vector<int> maxSlidingWindow(vector<int>& nums, int k) {
     }           
     return result;
 }
+
+
 Solution is available in **Sliding Window Maximum.cpp** file in same directory
