@@ -27,4 +27,5 @@ This is a Brute Force solution so Time Complexity is O(nlogn) and space complexi
 
 # Solution Approach-2
 Use 2 Heaps, one max-heap and another min-heap. Insert elements in these heaps, in such a way that the half-bigger elements are present in min-heap and half-smaller elements are stored in max-heap. In this way, if max-heap size > min-heap size, then return max-heap.top(), else return mean of min-heap.top() and max-heap.top()
-**Solution is available in **Find Median from Data Stream.cpp** file in same directory
+
+Solution is available in **Find Median from Data Stream.cpp** file in same directory
