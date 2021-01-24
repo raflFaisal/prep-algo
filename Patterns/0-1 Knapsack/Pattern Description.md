@@ -5,7 +5,7 @@ For example, given a set of items, each with a weight and a value, determine the
 
 We use top-down Memoisation or bottom-up Tabulation technique to solve these problems efficiently.
 
-There are many questions which are simillar to 0-1 Knapsack, if you are practice and get fimilliar with 0-1 Knapsack then you can easily solve other questions which are based on this 0-1 Knapsack Pattern
+There are many questions which are simillar to 0-1 Knapsack, if you practice and get fimilliar with 0-1 Knapsack then you can easily solve other questions which are based on this 0-1 Knapsack Pattern
 
 # Questions simillar to 0-1 Knapsack:
 - Subset Sum
