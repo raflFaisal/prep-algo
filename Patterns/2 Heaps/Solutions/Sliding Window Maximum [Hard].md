@@ -1,31 +1,49 @@
 # Description
 
-Median is the middle value in an ordered integer list. If the size of the list is even, there is no middle value. So the median is the mean of the two middle value.
+Given an array nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window.
 
-For example,
-[2,3,4], the median is 3
-
-[2,3], the median is (2 + 3) / 2 = 2.5
-
-Design a data structure that supports the following two operations:
-
-void addNum(int num) - Add a integer number from the data stream to the data structure.
-double findMedian() - Return the median of all elements so far.
- 
+Follow up:
+Could you solve it in linear time?
 
 Example:
 
-addNum(1)
-addNum(2)
-findMedian() -> 1.5
-addNum(3) 
-findMedian() -> 2
+Input: nums = [1,3,-1,-3,5,3,6,7], and k = 3
+Output: [3,3,5,5,6,7]
+Explanation:
+
+Window position Max
+[1 3 -1] -3 5 3 6 7 -> 3
+1 [3 -1 -3] 5 3 6 7 -> 3
+1 3 [-1 -3 5] 3 6 7 -> 5
+1 3 -1 [-3 5 3] 6 7 -> 5
+1 3 -1 -3 [5 3 6] 7 -> 6
+1 3 -1 -3 5 [3 6 7] -> 7
+
 
 # Solution Approach-1
-Add all numbers in array and sort every time.
-This is a Brute Force solution so Time Complexity is O(nlogn) and space complexity is O(n) for new array
+Using Deques
+TC => O(n)
 
-# Solution Approach-2
-Use 2 Heaps, one max-heap and another min-heap. Insert elements in these heaps, in such a way that the half-bigger elements are present in min-heap and half-smaller elements are stored in max-heap. In this way, if max-heap size > min-heap size, then return max-heap.top(), else return mean of min-heap.top() and max-heap.top()
+Keeping maximum value element at the front of Deque and removing smaller elements
 
-Solution is available in **Find Median from Data Stream.cpp** file in same directory
+vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+
+    deque<int> dque;
+    vector<int> result;
+
+    for(int i=0; i<nums.size(); i++)
+    {
+        while(!dque.empty() && nums[i] >= nums[dque.back()])
+            dque.pop_back();
+
+        dque.push_back(i); 
+
+        if(dque.front() == i-k)      // Maintaining range k
+            dque.pop_front();
+
+        if(i >= k-1)
+            result.push_back(nums[dque.front()]);
+    }           
+    return result;
+}
+Solution is available in **Sliding Window Maximum.cpp** file in same directory
