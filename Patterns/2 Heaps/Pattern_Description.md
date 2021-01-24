@@ -9,9 +9,9 @@ Two heap data structure is used to solve these problems:
 
 
 Questions:
-(1) Find Median from Data Stream [Hard]
-(2) Sliding Window Median [Hard]
-(3) Sliding Window Maximum [Hard]
+- Find Median from Data Stream [Hard]
+- Sliding Window Median [Hard]
+- Sliding Window Maximum [Hard]
 
 **Note**: C++ Solutions are provided in the same directory
 
