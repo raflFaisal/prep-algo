@@ -20,7 +20,7 @@ Time Complexity of all => O(N)
 **Note**: Follow-up question on this problem is to solve this using Iterative way (using own stack)
 
 Questions:
-(1) Pre-Order Traversal (Recursive)
+(1) Pre-Order Traversal (Recursive) <br />
 (2) Pre-Order Traversal (Iterative)
 (3) In-Order Traversal (Recursive)
 (4) In-Order Traversal (Iterative)
