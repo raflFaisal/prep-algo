@@ -60,7 +60,7 @@ Mirror Tree questions pattern:  		<br />
 ---------------------------------------------------------------------------------------------
 
 Mixed Questions:					<br />
-(1) Invert Binary Tree                - ![#f03c1] revise-this`#f03c15`  	<br />		
+(1) Invert Binary Tree                - ![#f03c15](test) `#f03c15`	
 (2) Count Complete Tree Nodes				<br />		
 (3) Merge Two Binary Trees [Easy]			<br />
 
