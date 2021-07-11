@@ -33,9 +33,9 @@ Questions:                             <br />
 
 BFS Traversal of Binary Tree (Applications/Questions):
 Notes:     <br />
-**(1)** For loop till queue.size() only when you need to print nodes level-by-level (leetcode specific)
-**(2)** For rest BFS traversals, simply take out front node from queue, and insert left and right childs in queue (within while loop)
-**(3)** For some BFS traversals, simply insert nodes of any level and insert NULL in Queue at the last iteration. Play with NULL 
+**(1)** For loop till queue.size() only when you need to print nodes level-by-level (leetcode specific)					 <br />
+**(2)** For rest BFS traversals, simply take out front node from queue, and insert left and right childs in queue (within while loop)	 <br />
+**(3)** For some BFS traversals, simply insert nodes of any level and insert NULL in Queue at the last iteration. Play with NULL 	 <br />
 
 Questions:       					<br />
 (1) Average of Levels in Binary Tree [Easy]   		<br />
@@ -69,7 +69,7 @@ Mixed Questions:					<br />
 Mixed DS:			<br />
 (1) Serialize and Deserialize Binary Tree		<br />
 (2) Serialize and Deserialize BST			<br />
-(3) Vertical Order Traversal of a Binary Tree [Hard]        - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15``			<br />
+(3) Vertical Order Traversal of a Binary Tree [Hard]        - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15``   <br />
 
 ---------------------------------------------------------------------------------------------
 
