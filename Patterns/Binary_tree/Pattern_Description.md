@@ -49,7 +49,7 @@ Side Views Pattern Questions:				<br />
 
 Pattern: From Right to Left BFS Traversal Questions:    <br />
 (1) Find Bottom Left Tree Value				<br />
-(2) Maximum Width of Binary Tree [Medium]      - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+(2) Maximum Width of Binary Tree [Medium]      - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 
 ---------------------------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ Mirror Tree questions pattern:  		<br />
 ---------------------------------------------------------------------------------------------
 
 Mixed Questions:					<br />
-(1) Invert Binary Tree                - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`	
+(1) Invert Binary Tree                - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 	
 (2) Count Complete Tree Nodes				<br />		
 (3) Merge Two Binary Trees [Easy]			<br />
 
@@ -69,7 +69,7 @@ Mixed Questions:					<br />
 Mixed DS:			<br />
 (1) Serialize and Deserialize Binary Tree		<br />
 (2) Serialize and Deserialize BST			<br />
-(3) Vertical Order Traversal of a Binary Tree [Hard]        - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15``   <br />
+(3) Vertical Order Traversal of a Binary Tree [Hard]        - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)   <br />
 
 ---------------------------------------------------------------------------------------------
 
